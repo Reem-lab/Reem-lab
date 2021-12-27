@@ -3,7 +3,6 @@
 
 <!-- **Reem-lab/Reem-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m a fresh gradute computer scince enginnering 💻
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
