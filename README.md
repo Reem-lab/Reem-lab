@@ -10,5 +10,5 @@
 - 📫 How to reach me:  [![@Rem79940127](https://img.shields.io/twitter/follow/Rem79940127?label=Rem79940127&style=social)](https://twitter.com/Rem79940127)
 - 😄 Pronouns: she ♾️ Remoz
 - Software developer, part-time guitarist. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!🔍⭐
-- ⚡ Fun fact: I would like to raise an elephant 
+- ⚡ Fun fact: I would like to raise an elephant 🐘
 
