@@ -20,3 +20,10 @@
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
 - ⚡ Fun fact: I would like to raise an elephant 🐘
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab)
+
