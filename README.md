@@ -1,4 +1,12 @@
-<!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/Reem-lab/count.svg" />
+</p>
+
 
   
   # <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px">
@@ -21,7 +29,7 @@
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
 - 📫 How to reach me: 
-    - [gmail] mailto:janinareem@gmail 
+    [Gmail](janinareem@gmail.com)     <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
 - 😄 Pronouns: she ♾️ RemoZ
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
