@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
 - 📫 How to reach me: 
-    - [gmail]: mailto:janinareem@gmail 'Lets connect through email'
+    - [gmail] mailto:janinareem@gmail 
 - 😄 Pronouns: she ♾️ RemoZ
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
@@ -51,8 +51,9 @@
 </h3> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab)
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) -->
 
