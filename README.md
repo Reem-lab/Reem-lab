@@ -28,8 +28,7 @@
 - 🔭 I’m a fresh gradute computer science engineering 💻
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
-- 📫 How to reach me: 
-    [Gmail](janinareem@gmail.com)     <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
+- 📫 How to reach me: <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="35" alt="Email"></a>
 - 😄 Pronouns: she ♾️ RemoZ
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
