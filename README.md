@@ -1,8 +1,10 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
-  ## Hello there 👋🏻  
+  
+  
+<h3 align="center"> Hello there 👋 </h3> 
     
- I am Reem a self-motivated tech enthusiast and full-stack developer 😲
+ <p align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </p>
 
 
 <!--       [see Readme] (https://reem-lab.github.io/Github-Profile-README/) -->
@@ -18,7 +20,7 @@
 - 💬 Ask me about front-end track
 - 📫 How to reach me: 
     -  [My e-mail](janinareem@gmail.com)
-- 😄 Pronouns: she ♾️ Remo
+- 😄 Pronouns: she ♾️ RemoZ
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
 - ⚡ Fun fact: I would like to raise an elephant 🐘
