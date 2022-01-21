@@ -17,5 +17,6 @@
     -  [My e-mail](janinareem@gmail.com)
 - 😄 Pronouns: she ♾️ Remo
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
+- **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
 - ⚡ Fun fact: I would like to raise an elephant 🐘
 
