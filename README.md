@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
 
   
-  
-<h2 align="center"> Hello World 👋 </h2> 
+  # <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BhuvaneshHingal/)
+
 
  <h3 align="center" > Glad to see you here ! 🤩 </h3>  
  <p align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </p>
@@ -18,7 +18,7 @@
 
 - 🔭 I’m a fresh gradute computer science engineering 💻
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 💬 Ask me about front-end track
+- 💬 Ask me about anything I would like to help (if I could ✨)
 - 📫 How to reach me: 
     -  [My e-mail](janinareem@gmail.com)
 - 😄 Pronouns: she ♾️ RemoZ
