@@ -28,14 +28,26 @@
     
     
 
-<br/>
+<br/> 
 <h3 align="center">
-My Tech Stacks
+ <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> My Tech Stacks
 </h3>
 
-<h3 align="center">
+<p align="center">
+ <img align="center" src="assets/c.svg" alt="c"/>
+ <img align="center" src="assets/c++.svg" alt="c++"/>
+ <img align="center" src="assets/html.svg" alt="html"/>
+ <img align="center" src="assets/css.svg" alt="Terminal"/>
+ <img align="center" src="assets/javascript.svg" alt="Terminal"/>
+ <img align="center" src="assets/python.svg" alt="python"/>
+ <img align="center" src="assets/react.svg" alt="react"/>
+ <img align="center" src="assets/vscode.svg" alt="vscode"/>
+ <img align="center" src="assets/git.svg" alt="git"/>
+</p>
+
+<!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+</h3> -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical)
