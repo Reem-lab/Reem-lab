@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
 - 📫 How to reach me: 
-    -  [My e-mail](janinareem@gmail.com)
+    - [gmail]: mailto:janinareem@gmail 'Lets connect through email'
 - 😄 Pronouns: she ♾️ RemoZ
 - Full-stack developer 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
