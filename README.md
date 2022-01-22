@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
 
 <p align="center"> 
   <h2 align="center">Visitors count</h2>
