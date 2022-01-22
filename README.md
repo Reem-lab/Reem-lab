@@ -61,6 +61,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab)
 
+
+
+<!-- <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"> -->
+
+
+  <img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+
+
+
+## Coding is fun 🤩💝
+### :handshake: Always happy to help!
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) -->
 
