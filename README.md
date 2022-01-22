@@ -14,7 +14,7 @@
 
 
  <h3 align="center" > Glad to see you here ! 🤩 </h3>  
- <p align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </p>
+ <h3 align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </h3>
 
 
 <!--       [see Readme] (https://reem-lab.github.io/Github-Profile-README/) -->
