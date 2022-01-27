@@ -38,6 +38,7 @@
     
 
 <br> 
+  <img align="left" width="150px" height="150px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 <h3 align="center">
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> My Tech Stacks
 </h3>
@@ -68,7 +69,7 @@
 <!-- <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"> -->
 
 
-  <img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+<!--   <img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"> -->
 
 
 
