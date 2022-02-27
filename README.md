@@ -48,10 +48,11 @@
  <img align="center" src="assets/html.svg" alt="html"/>
  <img align="center" src="assets/css.svg" alt="Terminal"/>
  <img align="center" src="assets/javascript.svg" alt="Terminal"/>
- <img align="center" src="assets/python.svg" alt="python"/>
  <img align="center" src="assets/react.svg" alt="react"/>
  <img align="center" src="assets/vscode.svg" alt="vscode"/>
  <img align="center" src="assets/git.svg" alt="git"/>
+ <img height="40
+      width="40" src="https://img.icons8.com/ios/50/000000/redux.png"/>
 </p>
 
 <hr>
