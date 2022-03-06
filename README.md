@@ -25,7 +25,7 @@
 
 <a href="https://twitter.com/Rem79940127" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/reem-janina-ab74ab21a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="100px" width="100px" alt="Twitter" align="right"></a>
 
-- 🔭 I’m a fresh gradute computer science engineering 💻
+- 🔭 I’m a full-stack developer  💻
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
 - 📫 How to reach me: <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="35" alt="Email"></a>
