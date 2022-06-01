@@ -9,7 +9,7 @@
 
 <!-- <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right">  -->
   
-   <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="200px" height="200px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="250px" height="250px">
+   <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="150px" height="150px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="150px" height="150px">
 <!--   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Reem-lab) -->
 
 
