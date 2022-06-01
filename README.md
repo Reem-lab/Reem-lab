@@ -9,7 +9,7 @@
 
 <!-- <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right">  -->
   
-  # <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px">
+   <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="200px" height="200px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="250px" height="250px">
 <!--   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Reem-lab) -->
 
 
@@ -67,7 +67,7 @@
 <!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
 </h3> -->
-
+`
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical)  -->
   <div>  
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=Reem-lab&show_icons=true&theme=radical"/> &nbsp;
