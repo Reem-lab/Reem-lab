@@ -1,15 +1,15 @@
 <!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <h2 align="center">Visitors count</h2>
 </p>
 <p align = "center">
   <img src="https://profile-counter.glitch.me/Reem-lab/count.svg" />
-</p>
+</p> -->
 
 <!-- <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right">  -->
   
-   <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="150px" height="150px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="150px" height="150px">
+<!--    <img  src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="150px" height="150px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="150px" height="150px"> -->
 <!--   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Reem-lab) -->
 
 
@@ -74,7 +74,7 @@
  <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Reem-lab&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) -->
 
 
 
@@ -84,8 +84,16 @@
 <!--   <img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"> -->
 
 
-## Coding is fun 🤩💝
+## Coding is fun 🤩💝 
 ### :handshake: Always happy to help!
+
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/Reem-lab/count.svg" />
+</p>
+
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) -->
