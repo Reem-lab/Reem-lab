@@ -13,7 +13,7 @@
 <!--   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Reem-lab) -->
 
 
- <h3 align="center" > Glad to see you here ! 🤩 </h3>  
+ <h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
  <h3 align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </h3>
 
 
