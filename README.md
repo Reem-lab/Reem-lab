@@ -28,10 +28,10 @@
 - 🔭 I’m a full-stack developer  💻
 - 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything I would like to help (if I could ✨)
-- 📫 How to reach me: <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="35" alt="Email"></a>
+- 📫 How to reach me: <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="25" alt="Email"></a>
 - 😄 Pronouns: she ♾️ RemoZ
 - 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
-- **🌐 Check my [Portfolio](https://reem-lab.github.io/MyPortfolio/)**
+- **🌐 Check my [Portfolio](https://immense-wave-24332.herokuapp.com/)**
 - ⚡ Fun fact: I would like to raise an elephant 🐘
     
     <hr>
@@ -43,14 +43,14 @@
 </h3>
 
 <p align="center">
- <img align="center" src="assets/c.svg" alt="c"/>
- <img align="center" src="assets/c++.svg" alt="c++"/>
- <img align="center" src="assets/html.svg" alt="html"/>
- <img align="center" src="assets/css.svg" alt="Terminal"/>
- <img align="center" src="assets/javascript.svg" alt="Terminal"/>
- <img align="center" src="assets/react.svg" alt="react"/>
- <img align="center" src="assets/vscode.svg" alt="vscode"/>
- <img align="center" src="assets/git.svg" alt="git"/>
+ <code> <img height="30" align="center" src="assets/c.svg" alt="c"/></code>
+  <code><img height="30" align="center" src="assets/c++.svg" alt="c++"/></code>
+  <code><img height="30" align="center" src="assets/html.svg" alt="html"/></code>
+  <code><img height="30" align="center" src="assets/css.svg" alt="Terminal"/></code>
+  <code><img height="30" align="center" src="assets/javascript.svg" alt="Terminal"/></code>
+ <code> <img height="30" align="center" src="assets/react.svg" alt="react"/></code>
+  <code><img height="30" align="center" src="assets/vscode.svg" alt="vscode"/></code>
+  <code><img height="30" align="center" src="assets/git.svg" alt="git"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
@@ -83,9 +83,8 @@
 
 <!--   <img align="left" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"> -->
 
-
-## Coding is fun 🤩💝 
-### :handshake: Always happy to help!
+<!-- ## Coding is fun 🤩💝 
+### :handshake: Always happy to help! -->
 
 <p align="center"> 
   <h2 align="center">Visitors count</h2>
