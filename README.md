@@ -42,14 +42,14 @@
 </h3>
 
 <p align="center">
- <code> <img height="30" align="center" src="assets/c.svg" alt="c"/></code>
-  <code><img height="30" align="center" src="assets/c++.svg" alt="c++"/></code>
-  <code><img height="30" align="center" src="assets/html.svg" alt="html"/></code>
-  <code><img height="30" align="center" src="assets/css.svg" alt="Terminal"/></code>
-  <code><img height="30" align="center" src="assets/javascript.svg" alt="Terminal"/></code>
- <code> <img height="30" align="center" src="assets/react.svg" alt="react"/></code>
-  <code><img height="30" align="center" src="assets/vscode.svg" alt="vscode"/></code>
-  <code><img height="30" align="center" src="assets/git.svg" alt="git"/></code>
+ <code> <img height="40" align="center" src="assets/c.svg" alt="c"/></code>
+  <code><img height="40" align="center" src="assets/c++.svg" alt="c++"/></code>
+  <code><img height="40" align="center" src="assets/html.svg" alt="html"/></code>
+  <code><img height="40" align="center" src="assets/css.svg" alt="Terminal"/></code>
+  <code><img height="40" align="center" src="assets/javascript.svg" alt="Terminal"/></code>
+ <code> <img height="40" align="center" src="assets/react.svg" alt="react"/></code>
+  <code><img height="40" align="center" src="assets/vscode.svg" alt="vscode"/></code>
+  <code><img height="40" align="center" src="assets/git.svg" alt="git"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
     <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
