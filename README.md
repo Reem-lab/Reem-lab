@@ -14,7 +14,7 @@
 
 
  <h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
- <h3 align="center" > I am Reem a self-motivated tech enthusiast and full-stack developer 😲 </h3>
+ <h3 align="center" > I am Reem, a self-motivated tech enthusiast and full-stack developer 😲 </h3>
 
 
 <!--       [see Readme] (https://reem-lab.github.io/Github-Profile-README/) -->
@@ -31,7 +31,7 @@
 - 😄 Pronouns: she ♾️ RemoZ
 - 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
 - **🌐 Check my [Portfolio](https://immense-wave-24332.herokuapp.com/)**
-- ⚡ Fun fact: I would like to raise an elephant 🐘
+- ⚡ Fun fact: I would like to raise an elephant because I found them fascinating.🐘
     
     <hr>
     
