@@ -31,7 +31,7 @@
 - 📫 How to reach me: <a href="mailto:janinareem@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="25" alt="Email"></a>
 - 😄 Pronouns: she ♾️ RemoZ
 - 💻 My Stack: JavaScript, Ruby, Ruby on Rails, React, Redux. Looking for my next job!🔍⭐
-- **🌐 Check my [Resume](https://docs.google.com/document/d/1jJ0Fcu6NMC31DodKR-mDWN6MFTc6DyjHMOgkrJbLI1E/edit?usp=sharing)**
+<!-- - **🌐 Check my [Resume](https://docs.google.com/document/d/1jJ0Fcu6NMC31DodKR-mDWN6MFTc6DyjHMOgkrJbLI1E/edit?usp=sharing)** -->
 - ⚡ Fun fact: I would like to raise an elephant because I found them fascinating.🐘
     
     <hr>
